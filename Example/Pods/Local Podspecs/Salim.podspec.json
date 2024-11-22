@@ -1,0 +1,22 @@
+{
+  "name": "Salim",
+  "version": "0.1.0",
+  "summary": "A short description of Salim.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/SalimMob/Salim",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "SalimMob": "salim.maalouf@mymonty.com"
+  },
+  "source": {
+    "git": "https://github.com/SalimMob/Salim.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "Salim/Classes/**/*"
+}
