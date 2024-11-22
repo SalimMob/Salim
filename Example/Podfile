@@ -1,0 +1,6 @@
+use_frameworks!
+target 'Salim_Tests' do
+  pod 'Salim', :path => '../'
+  
+  
+end
